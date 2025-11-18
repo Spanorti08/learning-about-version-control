@@ -1,1 +1,3 @@
-# learning-about-version-control
+# Learning about version control
+
+# Author name: Norton Yu
