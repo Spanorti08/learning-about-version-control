@@ -1,3 +1,3 @@
 # Learning about version control
 
-# Author name: Norton Yu
+Author name: Norton Yu
